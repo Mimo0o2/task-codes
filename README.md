@@ -4,7 +4,14 @@
 ![WhatsApp Image 2024-03-22 at 05 02 32_3349dde8](https://github.com/Mimo0o2/task-codes/assets/106195234/5dc85b77-ad34-4260-a5fc-1a0810ad4f2c)
 
 ##### the system architecture design for our app
-![Alt text](file:///C:/Users/%D9%85%D8%B1%D9%8A%D9%85%20%D8%A8%D9%83%D8%B1/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/FBF90EEDAEDF0543D89CAA9EDCBA273F/WhatsApp%20Image%202024-03-22%20at%2005.02.50_116505a2.jpg)
+
+![WhatsApp Image 2024-03-22 at 05 02 50_116505a2](https://github.com/Mimo0o2/task-codes/assets/106195234/0bcef8bf-2e85-41d0-9a1a-a8da9a1b708c)
+
+
+
+
+
+
 ### AI model
 we have seen a pre-made model and did some editing on it 
 right now we are stuck in linking the model with the application,
@@ -29,8 +36,16 @@ Sure! Here's a short explanation of the provided code:
 15. for classIds, confidence, box in zip(classIds.flatten(), confs.flatten(), bbox):: Iterates over each detected object, where classIds are the IDs of the detected classes, confidence are the confidence scores, and box are the bounding boxes.
 16. cv2.rectangle(img, box, color=(0, 255, 0), thickness=1): Draws a rectangle around each detected object on the input image img.
 17. cv2.putText(img, classNames[classIds-1], (box[0] + 10, box[1] + 30), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 255, 0), 1): Writes the class name corresponding to each detected object above its bounding box.
-18. cv2.imshow("output", img): Displays the output image with detected objects.
-19. cv2.waitKey(0): Waits for a key press to close the output window.
+20. cv2.imshow("output", img): Displays the output image with detected objects.
+21. cv2.waitKey(0): Waits for a key press to close the output window.
+
+####vedio of the app
+
+
+https://github.com/Mimo0o2/task-codes/assets/106195234/40abe766-e998-4c68-be1f-f073ea9bcbb5
+
+
+
 
 
 
