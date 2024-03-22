@@ -2,7 +2,7 @@
 
 # convert image to description
 ## flutter app ui
-##### a simple flutter app that using ml model to make image to be a description text
+##### a simple flutter app that uses ml model to make an image being a description text
 
 ## picture of ui 
 
@@ -11,7 +11,7 @@
 
 <img width="379" alt="Screenshot 2024-03-21 184836" src="https://github.com/Mimo0o2/task-codes/assets/106195234/5dc85b77-ad34-4260-a5fc-1a0810ad4f2c">
 
-## the system architecture design for our app
+## The system architecture design for our app
 
 ![WhatsApp Image 2024-03-22 at 05 02 50_116505a2](https://github.com/Mimo0o2/task-codes/assets/106195234/0bcef8bf-2e85-41d0-9a1a-a8da9a1b708c)
 
@@ -23,8 +23,8 @@
 ## AI model
 we have seen a pre-made model and did some editing on it 
 right now we are stuck in linking the model with the application,
-the model was designed to get a photo and recongise the objects it has .
-and here some explaination for the code:
+the model was designed to get a photo and recognize the objects it has .
+and here some explanation for the code:
 Sure! Here's a short explanation of the provided code:
 
 1. import cv2: Imports the OpenCV library, which is used for image processing tasks.
@@ -47,7 +47,7 @@ Sure! Here's a short explanation of the provided code:
 20. cv2.imshow("output", img): Displays the output image with detected objects.
 21. cv2.waitKey(0): Waits for a key press to close the output window.
 
-## vedio of the app
+## video of the app
 
 
 https://github.com/Mimo0o2/task-codes/assets/106195234/40abe766-e998-4c68-be1f-f073ea9bcbb5
