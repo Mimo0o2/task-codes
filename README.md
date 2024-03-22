@@ -2,7 +2,7 @@
 
 # convert image to description
 ## flutter app ui
-##### a flutter simple app that using ml model to make image to be a description text
+##### a simple flutter app that using ml model to make image to be a description text
 
 <img width="379" alt="Screenshot 2024-03-21 184836" src="https://github.com/Mimo0o2/task-codes/assets/106195234/994a3a61-43c9-43d4-906d-a884d51100d1">
 
