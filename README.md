@@ -4,12 +4,14 @@
 ## flutter app ui
 ##### a simple flutter app that using ml model to make image to be a description text
 
+## picture of ui 
+
 <img width="379" alt="Screenshot 2024-03-21 184836" src="https://github.com/Mimo0o2/task-codes/assets/106195234/994a3a61-43c9-43d4-906d-a884d51100d1">
 
 
 <img width="379" alt="Screenshot 2024-03-21 184836" src="https://github.com/Mimo0o2/task-codes/assets/106195234/5dc85b77-ad34-4260-a5fc-1a0810ad4f2c">
 
-##### the system architecture design for our app
+## the system architecture design for our app
 
 ![WhatsApp Image 2024-03-22 at 05 02 50_116505a2](https://github.com/Mimo0o2/task-codes/assets/106195234/0bcef8bf-2e85-41d0-9a1a-a8da9a1b708c)
 
